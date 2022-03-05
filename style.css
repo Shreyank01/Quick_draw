@@ -29,3 +29,14 @@ h1{
     color:blue;
     font-weight: bold;
 }
+
+canvas {
+    border: 5px rgb(255, 255, 255) solid ;
+    border-radius: 20px;
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 1px 1px 38px  rgb(255, 255, 255);
+}
+
